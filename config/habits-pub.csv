@@ -1,0 +1,6 @@
+habit,category,condition,score,single_action,weekday,weekend,private
+wear supportive rucksack,posture,,5,true,true,false,false
+do 15 minutes coding,growth,,15,true,true,true,false
+recall what is in the fridge,life_admin,,5,false,true,true,false
+do exercise with friends,social,,20,false,true,true,false
+do something pop culture related,social,,5,false,true,true,false
